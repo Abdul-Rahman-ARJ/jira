@@ -17,6 +17,7 @@ import storage from "../../lib/utils/storage";
 
 const Profile = ({ initialProfile }) => {
   const router = useRouter();
+  console.log(router);
   const {
     query: { pid },
   } = router;
