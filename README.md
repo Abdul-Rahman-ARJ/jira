@@ -32,6 +32,7 @@ The example application is a social blogging site (i.e. a Medium.com clone) call
 
 **General functionality:**
 
+- Get all funtionalities
 - Authenticate users via JWT (login/register pages + logout button on settings page)
 - CRU\* users (sign up & settings page - no deleting required)
 - CRUD Articles
